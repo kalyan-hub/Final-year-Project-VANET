@@ -1,1 +1,2 @@
-# Final-year-Project-VANET
+# CSD
+Implementation of basic VANET protocols using NS2
